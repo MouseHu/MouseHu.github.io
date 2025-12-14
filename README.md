@@ -1,5 +1,2 @@
 # About
-Hao Hu is currently a Master's student working with [Prof. Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/) at 
-[Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, headed by [Prof. Andrew Yao](https://iiis.tsinghua.edu.cn/yao/). His primary research 
-goal is to develop innovative models and methods to enable sample-efficient generalizable reinforcement learning.
-His research interests include episodic control, zero-shot reinforcement learning, and meta-learning.
+I am currently a Member of Technical Staff at <strong>Moonshot AI</strong>, working on <strong>computer use</strong> and <strong>deep research</strong> agents. I received my Ph.D. degree in IIIS, Tsinghua University in 2024, and it is my honor to work with <a href="https://engineering.washu.edu/faculty/Chongjie-Zhang.html"> Prof. Chongjie Zhang </a> and <a href="http://people.iiis.tsinghua.edu.cn/~gaoyang/"> Prof. Yang Gao</a>. During my Ph.D. study, I was fortunate to visit Northwestern University and work with <a href="https://zhaoranwang.github.io/"> Prof. Zhaoran Wang </a>. 
